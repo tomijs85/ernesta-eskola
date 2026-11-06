@@ -1,0 +1,11 @@
+{
+  "name": "ernesta-eskola",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": ">=8.0.0"
+  },
+  "devDependencies": {
+    "@netlify/functions": ">=3.0.0"
+  }
+}
